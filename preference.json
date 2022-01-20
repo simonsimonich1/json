@@ -1,0 +1,29 @@
+{
+  "first_name":"Simon",
+  "last_name":"simon",
+  "movies":
+  {
+    "historical":"serials",
+    "drama":"some movie"
+  },
+  "food":1,
+  "Ukrainian":
+  [
+    {
+      "season":"autumn",
+      "autumn":3
+    },
+    {
+      "season":"summer",
+      "summer":3
+    },
+    {
+      "country":"Ukraine",
+      "city":"Kiev"
+    }
+  ],
+      "Slots":
+  [
+    0,1,2,3
+  ]
+}
